@@ -1,2 +1,2 @@
 # My-SQL
-Belajar Tentang MySQL
+Basic of MySQL
