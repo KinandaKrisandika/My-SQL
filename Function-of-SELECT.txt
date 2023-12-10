@@ -1,0 +1,4 @@
+---Function of SELECT---
+select * from my_study;
+
+its mean select all table from my_study
