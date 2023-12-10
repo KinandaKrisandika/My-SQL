@@ -1,0 +1,14 @@
+Create Table Storage
+(
+Code  INT NOT NULL,
+Name  Varchar(100) NOT NULL,
+Price  INT default 0,
+Total  INT defult 0,
+Time  TimeStamp NOT NULL Current_Timestamp
+) Engine = InnoDB;
+
+Create Table Storage ==> its mean, u're create a new table and the name is "Storage"
+Code, Name, Price, Total, Time  ==> that's the description of table
+INT, VARCHAR, TimeStamp  ==> type of data
+NULL/NOT NULL  ==> not null is your table has content
+Engine = InnoDB  ==> its mean what engine do u use
