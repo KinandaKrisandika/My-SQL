@@ -1,0 +1,10 @@
+---Login to My SQL---
+-uroot -p
+>-u for user
+>-p password
+root is a default user from MySql
+
+---How to show, add & use your database---
+show databases;    ==> to see whatever u have on your database
+create database my_study;    ==> if u want to add new database
+use my_study;    ==> thats mean for use your database created before
